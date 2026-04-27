@@ -1,4 +1,4 @@
-<h1 align="center">⚡ AMPERSKIY / Junior programmer </h1>
+<h1 align="center">⚡ AMPERSKIY / Prompt Engineer </h1>
 
 ###
 
